@@ -7,5 +7,5 @@ const {connection} = require('./db')
 app.use(express.json()); // Parses JSON data
 app.use(express.urlencoded({ extended: true })); // Parses URL-encoded data
 
-
+ 
 module.exports = app;
