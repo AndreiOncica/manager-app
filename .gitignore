@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+.env
+*.log
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Build Artifacts
+dist/
+build/
+coverage/
+
+# IDE Settings
+.idea/
+.vscode/
+
+# Temporary Files
+*.tmp
+*.swp
+*.bak
